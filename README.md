@@ -24,3 +24,7 @@ A simple web-based Alumni Database Management System developed using HTML, CSS a
 - src/style.css - Styling
 - src/script.js - Application logic
 - tests/ - Test files
+
+## Development Update
+
+The Alumni Database Management System is maintained using Git and GitHub for version control.
