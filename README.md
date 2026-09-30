@@ -2,7 +2,7 @@
 
 ## Project Description
 
-A simple web-based Alumni Database Management System developed using HTML, CSS and JavaScript.
+A user-friendly web-based Alumni Database Management System for connecting alumni.
 
 ## Features
 
