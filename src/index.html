@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alumni Database Management System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Alumni Database Management System</h1>
+        <p class="subtitle">Alumni Registration and Search</p>
+
+        <section class="card">
+            <h2>Register Alumni</h2>
+
+            <input type="text" id="name" placeholder="Alumni Name">
+            <input type="email" id="email" placeholder="Email">
+            <input type="text" id="department" placeholder="Department">
+            <input type="number" id="batch" placeholder="Batch">
+
+            <button onclick="registerAlumni()">Register Alumni</button>
+
+            <p id="message"></p>
+        </section>
+
+        <section class="card">
+            <h2>Search Alumni</h2>
+
+            <input type="text" id="search" placeholder="Enter alumni name">
+            <button onclick="searchAlumni()">Search</button>
+
+            <div id="results"></div>
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
