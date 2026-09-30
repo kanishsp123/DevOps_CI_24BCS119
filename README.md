@@ -2,7 +2,7 @@
 
 ## Project Description
 
-A secure web-based Alumni Database Management System with improved validation.
+A secure and user-friendly web-based Alumni Database Management System for connecting alumni from different departments and batches.
 
 ## Features
 
