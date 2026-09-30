@@ -17,3 +17,20 @@ PSRemotingProtocolVersion: 2.3
 SerializationVersion: 1.1.0.1
 **********************
 Transcript started, output file is git_execution.log
+PS C:\Users\Kanish SP\Downloads\DevOps_CI_24BCS119> git add .
+
+PS C:\Users\Kanish SP\Downloads\DevOps_CI_24BCS119> git status
+
+PS C:\Users\Kanish SP\Downloads\DevOps_CI_24BCS119> git commit -m "Initial commit - Alumni Database Management System"
+
+PS C:\Users\Kanish SP\Downloads\DevOps_CI_24BCS119> git branch -M main
+
+PS C:\Users\Kanish SP\Downloads\DevOps_CI_24BCS119> git branch
+
+PS C:\Users\Kanish SP\Downloads\DevOps_CI_24BCS119> git log --oneline
+
+PS C:\Users\Kanish SP\Downloads\DevOps_CI_24BCS119> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20260930173251
+**********************
