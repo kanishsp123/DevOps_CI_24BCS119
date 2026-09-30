@@ -28,3 +28,6 @@ A simple web-based Alumni Database Management System developed using HTML, CSS a
 ## Development Update
 
 The Alumni Database Management System is maintained using Git and GitHub for version control.
+## Version Control
+
+This project uses Git and GitHub for version control and collaboration.
